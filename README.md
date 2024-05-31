@@ -31,8 +31,8 @@ You can view the live dashboard [here](https://gowdavidwan2003.github.io/General
 
 - **Name**: Vidwan Gowda H M
 - **Email**: [your-email@example.com](mailto:gowdavidwan2003@gmail.com)
-- **GitHub**: [github.com/your-github-profile](https://github.com/gowdavidwan2003)
-- **LinkedIn**: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/gowdavidwan2003)
+- **GitHub**: [github.com/gowdavidwan2003](https://github.com/gowdavidwan2003)
+- **LinkedIn**: [linkedin.com/in/gowdavidwan2003](https://linkedin.com/gowdavidwan2003)
 
 ## Usage
 
@@ -46,7 +46,3 @@ To explore the dashboard, visit the hosted link and interact with the various vi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the paths, links, and other details as per your needs. Ensure you replace the placeholders in the developer section with your actual contact information and profile links.
