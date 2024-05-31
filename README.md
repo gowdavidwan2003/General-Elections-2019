@@ -30,7 +30,7 @@ You can view the live dashboard [here](https://gowdavidwan2003.github.io/General
 ## Developer
 
 - **Name**: Vidwan Gowda H M
-- **Email**: [your-email@example.com](mailto:gowdavidwan2003@gmail.com)
+- **Email**: [gowdavidwan2003@gmail.com](mailto:gowdavidwan2003@gmail.com)
 - **GitHub**: [github.com/gowdavidwan2003](https://github.com/gowdavidwan2003)
 - **LinkedIn**: [linkedin.com/in/gowdavidwan2003](https://linkedin.com/gowdavidwan2003)
 
